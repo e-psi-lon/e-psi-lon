@@ -11,5 +11,5 @@ Je suis un lycéen de 16 ans qui aime bien coder et qui as pris les spécialité
 Je fais quelques datapack ou ressources pack pour **Minecraft** mais je fais aussi du python. J'aimerais apprendre le Java mais flemme. Et il faut que je vois pour apprendre le C aussi.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=LTHCTheMaster&hide=issues&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTHCTheMaster&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=e-psi-lon&hide=issues&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-psi-lon&layout=compact&theme=radical"/>
