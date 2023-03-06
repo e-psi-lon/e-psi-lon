@@ -1,6 +1,6 @@
 ### Salut à tous
 
-Je m'appelle *e_ψ_lon* mais les restrictions de certains sites m'oblige à ne pas utiliser des caractères spéciaux
+Hey, je suis *e_ψ_lon* mais les restrictions de certains sites m'oblige à ne pas utiliser des caractères spéciaux
 
 ### A propos de moi
 
