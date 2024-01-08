@@ -8,7 +8,7 @@ I'm a 17 years old high school student who like code. I choose to study Math, Ph
 
 ### What do I do 
 
-I make some **Minecraft** datapacks or resources pack and I use Python and Kotlin (and a little bit of JavaScript). I want to lean Java and C but I've a thing called ✨*la flemme*✨ in French
+I make some **Minecraft** datapacks or resources pack and I use Python and Kotlin (and a little bit of JavaScript). I want to lean Java and C but I've something called ✨*la flemme*✨ in French
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=e-psi-lon&hide=issues&show_icons=true&theme=radical&count_private=true&show_icons=true"/>
