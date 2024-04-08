@@ -4,7 +4,7 @@ Hey, I'm *e_ψ_lon* but some websites doesn't accept certain characters like ψ
 
 ### About me 
 
-I'm a 17 years old high school student who like code. I choose to study Math, Physics and Chemistry (only on my 2nd year of high school) et NSI (*Numérique et Sciences Informatiques* which means Digital and Computer Science).
+I'm a 17 years old high school student who like code. I choose to study Math, Physics and Chemistry (only on my 2nd year of high school) and NSI (*Numérique et Sciences Informatiques* which means Digital and Computer Science).
 
 ### What do I do 
 
