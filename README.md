@@ -1,16 +1,33 @@
-## Hi everyone
+## 👋 Hi everyone
 
-Hey, I'm *e_ψ_lon* but some websites doesn't accept certain characters like ψ
+Hey, I'm ***e_ψ_lon*** !
+*Some sites don’t like ψ and underscores, so you’ll also see me as `e-psi-lon` or `e_psi_lon`.*
 
-### About me 
+### 🧑‍💻 About me 
 
-I'm an 18 years old university student who likes to code. I'm currently in first year in computer science. I used to study Math, Physics and Chemistry (only on my 2nd year of high school) and NSI (*Numérique et Sciences Informatiques* which means Digital and Computer Science) in high school and now.
+I'm an 18-year-old university student in first year of Computer Science. 
+In high school I studied: 
+- 🧮 Math
+- 💻 NSI (*Numérique et Sciences Informatiques*)
+- 🧪 Physics, and Chemistry (in Première)
 
-### What do I do 
+### 🔧 What do I do 
 
-I make some **Minecraft** datapacks or resources pack and I use Python and Kotlin (and a little bit of JavaScript) but I also know C. I want to learn Java but I've something called ✨*la flemme*✨
+- I started development with **Minecraft** datapacks and troll resources packs
+- I now mostly code in **Kotlin**, **Python** and some **HTML**/**CSS**/**JavaScript**. I also know **C**, **PHP**
+- Sometimes I have fun with *Brainfuck* and esolangs 
+- I *want* to learn Java ☕... but I have something called ✨ *la flemme* 
 
+### 📊 Some Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=e-psi-lon&hide=issues&show_icons=true&theme=radical&count_private=true&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-psi-lon&layout=compact&theme=radical&count_private=true&show_icons=true"/>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=e-psi-lon&hide=issues&show_icons=true&theme=radical&count_private=true"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-psi-lon&layout=compact&theme=radical&count_private=true"/>
+</p>
 
+<sub><sup>
+I use Fedora btw<br/>
+Turns out epsilon means “very small” in math. Didn’t know that when I picked the name. Regret? Especially during math class — felt mentioned every time (but wasn’t). Too late? Absolutely.
+</sup></sub>
