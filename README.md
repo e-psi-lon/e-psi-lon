@@ -5,7 +5,7 @@ Hey, I'm ***e_ψ_lon*** !
 
 ### 🧑‍💻 About me 
 
-I'm an 18-year-old university student in first year of Computer Science. 
+I'm an 18-year-old university student in second year of Computer Science. 
 In high school I studied: 
 - 🧮 Math
 - 💻 NSI (*Numérique et Sciences Informatiques*)
@@ -16,7 +16,7 @@ In high school I studied:
 - I started development with **Minecraft** datapacks and troll resources packs
 - I now mostly code in **Kotlin**, **Python** and some **HTML**/**CSS**/**JavaScript**. I also know **C**, **PHP**
 - Sometimes I have fun with *Brainfuck* and esolangs 
-- I *want* to learn Java ☕... but I have something called ✨ *la flemme* 
+- I *want* to learn Java ☕... but I have something called ✨*la flemme*✨ (and I'll learn it this year anyway in class)
 
 ### 📊 Some Stats
 
@@ -28,6 +28,6 @@ In high school I studied:
 </p>
 
 <sub><sup>
-I use Fedora btw<br/>
+I use ~~Fedora~~ NixOS btw<br/>
 Turns out epsilon means “very small” in math. Didn’t know that when I picked the name. Regret? Especially during math class — felt mentioned every time (but wasn’t). Too late? Absolutely.
 </sup></sub>
