@@ -16,7 +16,7 @@ In high school I studied:
 - I started development with **Minecraft** datapacks and troll resources packs
 - I now mostly code in **Kotlin**, **Python** and some **HTML**/**CSS**/**JavaScript**. I also know **C**, **PHP**
 - Sometimes I have fun with *Brainfuck* and esolangs 
-- I *want* to learn Java ☕... but I have something called ✨*la flemme*✨ (and I'll learn it this year anyway in class)
+- I used to *want* to learn Java ☕... but I had something called ✨*la flemme*✨ (and now I know it, thanks university. And yes this sentence is very verbose. But eh we're talking about Java)
 
 ### 📊 Some Stats
 
