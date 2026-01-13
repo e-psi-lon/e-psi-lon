@@ -1,7 +1,7 @@
 ## 👋 Hi everyone
 
 Hey, I'm ***e_ψ_lon*** !
-*Some sites don’t like ψ and underscores, so you’ll also see me as `e-psi-lon` or `e_psi_lon`.*
+*Some sites don’t like ψ and underscores, so you’ll also see me as `e-psi-lon` or `e_psi_lon`. Basically, if it matches `e[\-_](ψ|psi)[\-_]lon` it's likely that it's me.*
 
 ### 🧑‍💻 About me
 
