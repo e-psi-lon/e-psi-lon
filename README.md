@@ -5,7 +5,7 @@ Hey, I'm ***e_ψ_lon*** !
 
 ### 🧑‍💻 About me
 
-I'm a 19-year-old university student in second year of Computer Science. I also studied computer science in high school.
+I'm a 19-year-old university student in third year of Computer Science. I also studied computer science in high school.
 
 
 ### 🔧 What do I do 
