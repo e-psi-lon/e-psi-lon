@@ -5,7 +5,7 @@ Hey, I'm ***e_ψ_lon*** !
 
 ### 🧑‍💻 About me
 
-I'm a 20-year-old university student in third year of Computer Science. I also studied computer science in high school.
+I'm a 20-year-old university student in third year of Computer Science. I also studied computer science in high school. I'm also currently migrating to my [personal Git host](https://git.e-psi-lon.dev) but I'll keep GitHub as an up-to-date mirror of my repositories there
 
 
 ### 🔧 What do I do 
